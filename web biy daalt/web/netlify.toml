@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/web biy daalt/web/index.html"
+status = 200
